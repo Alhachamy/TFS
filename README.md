@@ -2,6 +2,7 @@
 
 this is an application that accepts an OpenStreetMap file with the extension ".OSM" and will then plot said map and
 simulate traffic flow.
+- head to https://www.openstreetmap.org/ and crop a map to use or use the map in the "Map" folder inside the archive.
 
 # Features!
 
